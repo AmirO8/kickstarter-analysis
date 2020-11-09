@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Performing analysis on a kickstarter data to uncover trends
+# Kickstarter-Analysis
+*I Performed a kickstarter analysis to assist Louise in making a decision about her funding
